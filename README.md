@@ -6,6 +6,24 @@
 
 > "ล่าปัญหา พัฒนาโซลูชั่น จัดการทุกข้อมูล"
 
+## MY CODING STATS 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanthawat-Nurod&show_icons=true&theme=radical&count_private=true" alt="Nanthawat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat-Nurod&layout=compact&theme=radical" alt="Nanthawat's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanthawat-Nurod&theme=radical" alt="Nanthawat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanthawat-Nurod&theme=radical" alt="Nanthawat's Contribution Streak" />
+</p>
+
 ## WEAPONS OF CHOICE 🏹
 
 ### LANGUAGES
@@ -46,5 +64,17 @@ def solve_problem(complexity):
         return "Too Easy!"
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nanthawat-Nurod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nanthawat-Nurod&theme=radical&row=1" alt="Nanthawat's Trophy" />
+  </a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nanthawat-Nurod&theme=redical" alt="Nanthawat's Contribution Graph" />
+</p>
