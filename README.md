@@ -1,4 +1,4 @@
-# NANTHAWAT NUROD (XenoGAME) 🔥
+# NANTHAWAT NUROD (Nanthawat-Nuord) 🔥
 
 ![Code Warrior](https://img.shields.io/badge/STATUS-CODE_WARRIOR-red?style=for-the-badge)
 ![Backend Dev](https://img.shields.io/badge/ROLE-BACKEND_DEV-black?style=for-the-badge)
@@ -10,15 +10,15 @@
 
 <div align="center">
   
-  ![Nanthawat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=XenoGAME&show_icons=true&theme=radical)
+  ![Nanthawat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nanthawat-Nuord&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XenoGAME&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanthawat-Nuord&layout=compact&theme=radical)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=XenoGAME&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Nanthawat-Nuord&theme=radical)](https://git.io/streak-stats)
   
-  [![Nanthawat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XenoGAME&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Nanthawat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanthawat-Nuord&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=XenoGAME&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Nanthawat-Nuord&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -62,5 +62,5 @@ def solve_problem(complexity):
         return "Too Easy!"
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XenoGAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nanthawat-Nuord)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
